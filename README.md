@@ -1,2 +1,4 @@
-# Website
-Site for team
+# Official website for the Clackamas Krakens
+
+Made by Muyang Yan
+
